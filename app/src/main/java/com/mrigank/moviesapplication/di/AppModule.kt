@@ -1,6 +1,9 @@
-package com.mrigank.moviesapplication
+package com.mrigank.moviesapplication.di
 
 import com.mrigank.moviesapplication.Constants.BASE_URL
+import com.mrigank.moviesapplication.networking.MoviesService
+import com.mrigank.moviesapplication.repository.Repository
+import com.mrigank.moviesapplication.repository.RepositoryImpl
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

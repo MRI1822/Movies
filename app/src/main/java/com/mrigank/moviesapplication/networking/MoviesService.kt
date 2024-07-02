@@ -1,5 +1,6 @@
-package com.mrigank.moviesapplication
+package com.mrigank.moviesapplication.networking
 
+import com.mrigank.moviesapplication.model.Movies
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Query

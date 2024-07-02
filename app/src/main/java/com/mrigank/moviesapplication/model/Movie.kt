@@ -1,4 +1,4 @@
-package com.mrigank.moviesapplication
+package com.mrigank.moviesapplication.model
 
 import com.google.gson.annotations.SerializedName
 

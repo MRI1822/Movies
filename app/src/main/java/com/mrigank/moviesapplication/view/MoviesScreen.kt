@@ -1,4 +1,4 @@
-package com.mrigank.moviesapplication
+package com.mrigank.moviesapplication.view
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
@@ -23,6 +23,10 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.dimensionResource
 import androidx.paging.compose.LazyPagingItems
+import com.mrigank.moviesapplication.model.Movie
+import com.mrigank.moviesapplication.MoviesViewModel
+import com.mrigank.moviesapplication.R
+import com.mrigank.moviesapplication.State
 
 
 @Composable
