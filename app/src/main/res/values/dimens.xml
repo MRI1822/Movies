@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Padding and spacing -->
+    <dimen name="progress_indicator_padding">20dp</dimen>
+    <dimen name="list_item_padding">10dp</dimen>
+    <dimen name="list_vertical_spacing">15dp</dimen>
+    <dimen name="header_padding">10dp</dimen>
+    <dimen name="vertical_padding">16dp</dimen>
+    <dimen name="horizontal_padding">8dp</dimen>
+    <dimen name="box_inner_padding">10dp</dimen>
+    <dimen name="box_corner_radius">8dp</dimen>
+    <dimen name="box_border_width">1dp</dimen>
+
+</resources>
